@@ -1,0 +1,13 @@
+Discuss the features of OOPs concept in python? Use of OOPs concept in Python[Inheritance, Polymorphism, Encapsulation, Class Instances
+advantages of using functions in programming and types of functions
+why we uses classes real life examples
+syntax of creating class
+different members of class
+what are the different types of statements in python like conditional statements and iterational statements etc..,
+different data types in programming [strings, dictionaries, lists, sets]
+use of file handling concept in python and different modes in file handling
+difference between append mode and write mode in python file handling
+what are the different functions that are used in python
+exception handling
+what are the different types of exceptions
+what are the different blocks used to handle the exceptions
